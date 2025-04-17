@@ -82,7 +82,7 @@ npm run dev
 #### Frontend
 
 ```bash
-cd server
+cd ../client
 npm run dev
 ```
 

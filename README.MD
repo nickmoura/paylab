@@ -5,7 +5,7 @@
 [![vite](https://img.shields.io/badge/Bundler-Vite-646CFF?style=flat&logo=vite)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
-> Um gateway de pagamento simples, funcional e com potencial de virar monstro. Feito com Node.js + React + Vite + Toastify, e umas pitadas de ódio estatal.
+> Um gateway de pagamento simples, funcional e com potencial de virar grande. Feito com Node.js + React + Vite + Toastify.
 
 ---
 
